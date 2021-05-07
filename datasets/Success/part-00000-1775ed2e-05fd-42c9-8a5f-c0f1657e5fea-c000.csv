@@ -1,0 +1,67 @@
+id,first_name,last_name,email,gender,ip_address,emp_join_date,emp_country,R001_RFLAG,R002_RFLAG,R003_RFLAG,R004_RFLAG,emp_sor_id
+1,Fayth,Paddock,fpaddock0@nytimes.com,Female,95.152.83.222,2020/09/15,China,"","","","",EMP_1
+2,Ogden,Ander,oander1@w3.org,Female,79.153.96.224,2020/10/15,United States,"","","","",EMP_2
+3,Ludovico,Defew,ldefew2@github.io,Male,44.72.101.250,2020/05/23,Peru,"","","","",EMP_3
+4,Ambrosius,Menlow,amenlow3@weather.com,Male,66.138.160.23,2021/04/11,China,"","","","",EMP_4
+5,Inglebert,Barrasse,ibarrasse4@soup.io,Male,180.85.153.228,2020/08/03,Indonesia,"","","","",EMP_5
+6,Verge,Falla,vfalla5@ucsd.edu,Female,71.150.69.49,2021/03/17,Indonesia,"","","","",EMP_6
+7,Darby,Couchman,dcouchman6@epa.gov,Male,240.18.37.91,2020/07/20,Russia,"","","","",EMP_7
+8,Henka,Sabater,hsabater7@squarespace.com,Female,64.9.232.61,2020/09/25,Russia,"","","","",EMP_8
+9,Monty,Yanin,myanin8@webs.com,Male,203.137.234.230,2020/05/15,Kenya,"","","","",EMP_9
+10,Joelynn,Cowdry,jcowdry9@flavors.me,Female,140.188.107.129,2020/05/18,Indonesia,"","","","",EMP_10
+11,Valene,Utting,vuttinga@comcast.net,Male,26.105.0.12,2020/08/02,Indonesia,"","","","",EMP_11
+12,Hobey,Bindley,hbindleyb@livejournal.com,Female,135.47.66.228,2021/02/03,China,"","","","",EMP_12
+13,Rozamond,Greenleaf,rgreenleafc@exblog.jp,Female,122.68.222.20,2021/05/03,Indonesia,"","","","",EMP_13
+14,Robby,Barhims,rbarhimsd@miibeian.gov.cn,Female,183.0.255.71,2021/02/09,Philippines,"","","","",EMP_14
+15,Lynde,Renbold,lrenbolde@fastcompany.com,Male,67.232.226.88,2020/08/12,Russia,"","","","",EMP_15
+16,Kath,Wyldes,kwyldesf@craigslist.org,Female,45.223.209.98,2020/08/14,Ukraine,"","","","",EMP_16
+17,Anderson,Andrieux,aandrieuxg@google.com.au,Male,213.237.67.125,2020/07/15,Russia,"","","","",EMP_17
+18,Leda,Northcliffe,lnorthcliffeh@cmu.edu,Female,58.68.179.210,2020/11/14,Czech Republic,"","","","",EMP_18
+19,Halimeda,Besset,hbesseti@cocolog-nifty.com,Male,138.55.109.203,2020/07/10,Brazil,"","","","",EMP_19
+20,Lalo,Downgate,ldowngatej@symantec.com,Female,205.227.104.109,2021/03/31,Russia,"","","","",EMP_20
+21,Ethelyn,Lowndsborough,elowndsboroughk@nhs.uk,Male,154.129.103.117,2021/04/26,Libya,"","","","",EMP_21
+22,Seka,Epperson,seppersonl@typepad.com,Female,10.48.84.120,2020/07/21,Colombia,"","","","",EMP_22
+23,Elvina,Caldeyroux,ecaldeyrouxm@home.pl,Male,183.162.245.11,2020/08/22,Vietnam,"","","","",EMP_23
+24,Nettle,Langton,nlangtonn@microsoft.com,Male,14.118.143.43,2020/10/23,China,"","","","",EMP_24
+25,Imogene,Woodrow,iwoodrowo@ted.com,Male,46.3.146.255,2020/08/03,Indonesia,"","","","",EMP_25
+26,Mariam,M'Chirrie,mmchirriep@ihg.com,Female,63.37.196.191,2020/09/22,Indonesia,"","","","",EMP_26
+27,Jozef,Hastelow,jhastelowq@twitpic.com,Female,140.233.68.2,2020/12/28,China,"","","","",EMP_27
+28,Marcella,Plott,mplottr@abc.net.au,Male,179.6.202.245,2021/03/20,Brazil,"","","","",EMP_28
+29,Clyve,Brackstone,cbrackstones@odnoklassniki.ru,Male,245.207.233.192,2021/04/01,Russia,"","","","",EMP_29
+30,Emili,Aldgate,ealdgatet@miitbeian.gov.cn,Male,248.33.97.64,2020/05/24,Philippines,"","","","",EMP_30
+31,Arly,Bergeau,abergeauu@webeden.co.uk,Female,189.54.108.92,2020/11/23,China,"","","","",EMP_31
+32,Nadia,Sambrook,nsambrookv@tiny.cc,Male,192.35.199.241,2020/06/12,South Africa,"","","","",EMP_32
+33,Conney,MacAdie,cmacadiew@g.co,Male,190.115.17.180,2020/07/08,China,"","","","",EMP_33
+34,Berri,Shallow,bshallowx@com.com,Female,35.4.1.21,2020/09/28,Portugal,"","","","",EMP_34
+35,Farly,Leveritt,fleveritty@fotki.com,Male,89.247.41.151,2020/11/05,China,"","","","",EMP_35
+36,Jsandye,Fredi,jfrediz@123-reg.co.uk,Male,49.11.84.102,2021/04/22,Poland,"","","","",EMP_36
+37,Joyous,Mayhow,jmayhow10@imgur.com,Female,253.127.12.244,2020/07/20,Indonesia,"","","","",EMP_37
+38,Abagael,Lattie,alattie11@cisco.com,Female,4.85.28.17,2021/01/07,China,"","","","",EMP_38
+39,Joletta,Sabbins,jsabbins12@paginegialle.it,Female,39.170.121.123,2021/03/28,Indonesia,"","","","",EMP_39
+40,Gratia,Pawsey,gpawsey13@yandex.ru,Male,235.250.204.80,2020/06/07,Greece,"","","","",EMP_40
+41,Gail,Searle,gsearle14@ocn.ne.jp,Male,174.221.190.199,2021/03/03,Philippines,"","","","",EMP_41
+42,Maurise,Magner,mmagner15@photobucket.com,Male,191.100.254.85,2020/11/03,Indonesia,"","","","",EMP_42
+43,Laraine,Seres,lseres16@xrea.com,Male,46.25.71.104,2021/05/02,Indonesia,"","","","",EMP_43
+44,Elke,McPike,emcpike17@tinypic.com,Female,15.204.33.243,2020/08/03,Ecuador,"","","","",EMP_44
+45,Aubrette,Lathleiff,alathleiff18@mediafire.com,Female,26.94.94.48,2020/09/13,France,"","","","",EMP_45
+46,Piggy,Fulun,pfulun19@cafepress.com,Male,164.128.133.17,2020/09/10,Yemen,"","","","",EMP_46
+47,Sonny,Hirthe,shirthe1a@usda.gov,Female,118.115.237.110,2020/09/01,Serbia,"","","","",EMP_47
+48,Janeva,MacConnal,jmacconnal1b@e-recht24.de,Male,79.35.163.236,2020/06/18,Philippines,"","","","",EMP_48
+49,Huntlee,Delieu,hdelieu1c@columbia.edu,Male,93.82.23.195,2020/06/11,Russia,"","","","",EMP_49
+50,Frants,Billany,fbillany1d@list-manage.com,Female,64.42.90.233,2020/08/16,Angola,"","","","",EMP_50
+58,Rutherford,Coatsworth,rcoatsworth1l@home.pl,se,9999.30.74.196,2020/03/12,Angola,SOFT_R001,"",SOFT_R003,"",EMP_58
+67,Codie,Orris,corris1u@uiuc.edu,Mal,211.130.227,2019/03/08,Colombia,"","",SOFT_R003,"",EMP_67
+68,Timotheus,McCarlich,tmccarlich1v@pagesperso-orange.fr,Female,18.42.113,2021/03/22,China,"","","","",EMP_68
+69,Shelba,Leagas,sleagas1w@reuters.com,KIL,216.75.143.97,2021/03/08,China,"","",SOFT_R003,"",EMP_69
+73,Dermot,Canter,dcanter20@engadget.com,N,33332.26.171.231,2020/10/30,Nigeria,SOFT_R001,"",SOFT_R003,"",EMP_73
+75,Chicky,Zuan,czuan22@nsw.gov.au,Male,8789.131.133.238,2020/10/05,Mexico,SOFT_R001,"","","",EMP_75
+80,Joellyn,Tolumello,jtolumello27@eventbrite.com,Mle,111170.227.114.71,2021/04/11,Ireland,SOFT_R001,"",SOFT_R003,"",EMP_80
+82,Gonzalo,Cumpsty,gcumpsty29@diigo.com,Mal,123.133.9.146,2020/10/14,China,"","",SOFT_R003,"",EMP_82
+83,Filmer,Neesam,fneesam2a@geocities.com,Male,255.199.116,2020/08/03,China,"","","","",EMP_83
+84,Lynnett,Portlock,lportlock2b@prlog.org,Male,213.173.86,2020/06/12,Zambia,"","","","",EMP_84
+87,Lauralee,Renehan,lrenehan2e@behance.net,SME,100.141.235.148,2021/02/16,New Zealand,"","",SOFT_R003,"",EMP_87
+89,Catina,Butte,cbutte2g@goo.gl,Mle,191.67.160.27,2020/05/20,Portugal,"","",SOFT_R003,"",EMP_89
+97,Huntington,Sherrocks,hsherrocks2o@jalbum.net,ale,94.186.119.255,2019/12/16,Bangladesh,"","",SOFT_R003,"",EMP_97
+99,Hamnet,Rowbotham,hrowbotham2q@timesonline.co.uk,Female,121.121.36,2021/01/19,Ethiopia,"","","","",EMP_99
+100,Derrick,Lunge,dlunge2r@ovh.net,e,204.134.255,2021/01/23,Indonesia,"","",SOFT_R003,"",EMP_100
+101,Mellisa,Dils,mdils2s@google.com.br,Female,198.149.175.144,2021/04/04,Czech Republic,"","","","",EMP_101

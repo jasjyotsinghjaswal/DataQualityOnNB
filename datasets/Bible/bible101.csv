@@ -1,0 +1,6 @@
+﻿RULE_ID,ACTIVE,PRIORITY,DESCRIPTION,TYPE,OUTPUT_COL
+R001,Y,1,"Trims Employee IP address and Soft Fail Record in case of invalid IP else it’s a PASS.The trimmed input column is returned as modified column value in case of PASS else return Original Value",SOFT,ip_address
+R002,Y,2,"Trims Emp Join Date and Reject/Hard Fail in case date is not in YYYY/MM/DD format else it’s a pass.The trimmed input column is returned as modified column value in case of PASS else return original value",HARD,emp_join_date
+R003,Y,3,"Trims Employee Gender and Soft Fail record in case of Invalid Gender else it’s a PASS if values are (m/f/male/female).The trimmed input column is returned as modified column value in case of PASS as Male/Female else return Original Value.",SOFT,gender
+R004,Y,4,"Trims Employee Mail and Rejects/Hard Fail record in case of Invalid email else it’s a PASS.The trimmed Input Column is returned as Modifid column value in case of PASS else return Original Value",HARD,email
+R005,Y,5,Concatenate Emp_ with Employee id,TRANS,emp_sor_id

@@ -1,0 +1,36 @@
+id,first_name,last_name,email,gender,ip_address,emp_join_date,emp_country,R001_RFLAG,R002_RFLAG,R003_RFLAG,R004_RFLAG,emp_sor_id
+51,Gilburt,Pinnick,gpinnick1e.google.co.uk,Kill,253.186.232.9000,2020/51/08,Honduras,SOFT_R001,HARD_R002,SOFT_R003,HARD_R004,EMP_51
+52,Jobyna,Langmaid,jlangmaid1f,End,91.5000.172.208,2020/02/51,Ethiopia,SOFT_R001,HARD_R002,SOFT_R003,HARD_R004,EMP_52
+53,Earle,Ulyet,eulyet1g@slideshare.net,Fem,9999.255.188.107,2021/12/33,Japan,SOFT_R001,HARD_R002,SOFT_R003,"",EMP_53
+54,Sunny,Lindsey,slindsey1h.com.cn,HU,9000.34.248.154,2020/15/29,Portugal,SOFT_R001,HARD_R002,SOFT_R003,HARD_R004,EMP_54
+55,Bobbi,Olliver,bolliver1i@java.com,le,98.150.137.280,2021/33/28,Russia,SOFT_R001,HARD_R002,SOFT_R003,"",EMP_55
+56,Petronille,Idell,pidell1jshareasale.com,ale,88.252.165.159,2021/01/16,China,"","",SOFT_R003,HARD_R004,EMP_56
+57,Domeniga,Broose,dbroose1k@people.com.cn,el,94.190.11.225,2021/33/22,China,"",HARD_R002,SOFT_R003,"",EMP_57
+59,Elke,Schollar,ugedomains.com,Female,99999.183.233.178,2020/06/16,Russia,SOFT_R001,"","",HARD_R004,EMP_59
+60,Briano,Copper,bcopper1nbravesites.com,Male,45.213.51.102,2020/87/05,China,"",HARD_R002,"",HARD_R004,EMP_60
+61,Lesly,Iltchev,liltchev1o@linkedin.com,H,137.212.213.165,2021/71/28,Swaziland,"",HARD_R002,SOFT_R003,"",EMP_61
+62,Arly,Lembrick,alembrick1p.com,Hi,248.66.113.191,2021/10/09,China,"","",SOFT_R003,HARD_R004,EMP_62
+63,Stevana,MacCosto,smaccosto1qepa.gov,Female,90.88.8888.189,2021/04/27,Central African Republic,SOFT_R001,"","",HARD_R004,EMP_63
+64,Ramonda,Morison,rmorison1rgoogle.fr,Male,29.40.178.89,2021/04/03,United States,"","","",HARD_R004,EMP_64
+65,Carrol,Acaster,cacaster1s@sfgate.com,Female,999978.117.25.218,2020/41/14,Colombia,SOFT_R001,HARD_R002,"","",EMP_65
+66,Bret,Sewall,bsewall1tfreewebs.com,Male,99985.9.88.207,2020/01/25,Indonesia,SOFT_R001,"","",HARD_R004,EMP_66
+70,Janeen,Uden,shutterfly.com,Female,85.9999.170.98,2020/11/27,Philippines,SOFT_R001,"","",HARD_R004,EMP_70
+71,Steward,Haly,bloomberg.com,Female,249.206.235.219,2020/444/15,Kazakhstan,"",HARD_R002,"",HARD_R004,EMP_71
+72,Sophey,Ledwidge,sledwidge1znba.com,SWMale,134.61.81.162,2020/09/03,Armenia,"","",SOFT_R003,HARD_R004,EMP_72
+74,Letti,Leavold,@businessinsider.com,Female,70.250.183.42,2020/55/17,Indonesia,"",HARD_R002,"",HARD_R004,EMP_74
+76,Konstantine,Simonou,ksimonou23twitter.com,Male,171.28.43.63,2021/04/29,Indonesia,"","","",HARD_R004,EMP_76
+77,Elliot,Roseborough,eroseborough24netscape.com,Male,146.194.79.233,2021/55/26,Canada,"",HARD_R002,"",HARD_R004,EMP_77
+78,Nefen,Pelz,npelz25@admin.ch,SW,38.49.250.184,2020/10/33,Brazil,"",HARD_R002,SOFT_R003,"",EMP_78
+79,Cully,Garard,cgarard26@squidoo.com,Male,108.60.221.45,2020/05/33,Bangladesh,"",HARD_R002,"","",EMP_79
+81,Marcille,Spenclay,mspenclay28instagram.com,Fale,51.157.16.148,2021/03/03,China,"","",SOFT_R003,HARD_R004,EMP_81
+85,Romy,Lorenc,rlorenc2c@fotki.com,Female,138.110.215.63,2020/10,Russia,"",HARD_R002,"","",EMP_85
+86,Ricoriki,Baggs,rbaggs2d@google.com,RTE,15.225.202.41,2020/23/24,China,"",HARD_R002,SOFT_R003,"",EMP_86
+88,Almeta,Gianuzzi,agianuzzi2f-wsj.com,Male,142.37.27.188,2020/05/24,Peru,"","","",HARD_R004,EMP_88
+90,Veda,MacGuiness,vmacguiness2h@51.la,Male,63.10.214,2020/33/30,Japan,"",HARD_R002,"","",EMP_90
+91,Garek,Kincade,gkincade2i@smh.com.au,Mae,185.234.93.122,2021/87/11,Norway,"",HARD_R002,SOFT_R003,"",EMP_91
+92,Maryjane,Beange,mbeange2j@admin.ch,Male,3058.40.137,2020/86/02,Philippines,SOFT_R001,HARD_R002,"","",EMP_92
+93,Tracey,Swinley,tswinley2knarod.ru,Male,63.84.184.39,2021/33/12,Cameroon,"",HARD_R002,"",HARD_R004,EMP_93
+94,Jacinthe,Gyves,jgyves2ltimesonline.co.uk,Male,1868.56.246,2021/01/22,China,SOFT_R001,"","",HARD_R004,EMP_94
+95,Pietro,Heales,pheales2mmicrosoft.com,Female,253.93.1111,2020/10/07,China,"","","",HARD_R004,EMP_95
+96,Hillyer,Blakey,hblakey2ndedecms.com,Female,128.125.236.223,2020/605,Peru,"",HARD_R002,"",HARD_R004,EMP_96
+98,Randell,Brister,rbrister2p@dagondesign,Male,166.154.213.220,2020/10/15,Philippines,"","","",HARD_R004,EMP_98
